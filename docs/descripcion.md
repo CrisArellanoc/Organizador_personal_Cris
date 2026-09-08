@@ -1,5 +1,1 @@
-• Registrar tareas.
-• Consultar tareas.
-• Modificar tareas.
-• Marcar tareas como terminadas.
-• Registrar notas.
+El propósito de este proyecto es practicar y familiarizarnos con comandos de Git y GitHub
