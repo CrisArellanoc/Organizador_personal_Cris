@@ -6,3 +6,6 @@
 • Pasos de instalación
 • Dependencias
 • Autor
+
+## Colaboración 
+-Adrei Blanco
